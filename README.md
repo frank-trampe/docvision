@@ -2,7 +2,7 @@
 
 ## Overview
 
-This library provides various routines helpful for identifying boundaries and regions of scanned documents. It is descended from a product called lottovision previously released by Lottery.com but now off-line.
+This library provides various routines helpful for identifying boundaries and regions of scanned documents. It is descended from a product called lottovision previously built for and open sourced by Lottery.com but now off-line.
 
 ## Functional Areas
 
